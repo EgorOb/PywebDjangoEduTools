@@ -1,0 +1,8 @@
+type: marketplace
+title: PywebDjango
+language: English
+summary: Курс для основ работы с Django
+programming_language: Python
+environment: unittest
+content:
+- Урок1

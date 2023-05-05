@@ -1,0 +1,28 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+- name: project/__init__.py
+  visible: true
+- name: project/asgi.py
+  visible: true
+- name: project/settings.py
+  visible: true
+- name: project/urls.py
+  visible: true
+- name: project/wsgi.py
+  visible: true
+- name: __init__.py
+  visible: false
+- name: manage.py
+  visible: true
+- name: img.png
+  visible: true
+- name: img_1.png
+  visible: true
+- name: db.sqlite3
+  visible: true
+- name: img_2.png
+  visible: true
+- name: img_3.png
+  visible: true
